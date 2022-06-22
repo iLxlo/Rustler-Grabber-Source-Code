@@ -1,19 +1,11 @@
 
 <img src="https://user-images.githubusercontent.com/66573599/146654766-41c1fdd8-9350-415e-87b2-afbfc17da12a.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" align="right" width="70" height="100" />
 
-#### [🔗 Discord Link](https://discord.gg/pV8VHDDKmJ) - [📖 Terms](https://github.com/Stanley-GF/PirateStealer#terms) - [🔨 Builder](https://discord.gg/pV8VHDDKmJ) - [💎 Premium](https://discord.gg/pV8VHDDKmJ) - [💡 Features](https://github.com/Stanley-GF/PirateStealer#features)
+#### [🔗 Discord Link](https://discord.gg/2305) - [📖 Terms](https://github.com/iLxlo/Rustler-Grabber-Source-Code#terms) - [🔨 Builder](https://discord.gg/2305) - [💎 Premium](https://discord.gg/2305) - [💡 Features](https://github.com/iLxlo/Rustler-Grabber-Source-Code#features)
 
-# PirateStealer 
-Official PirateStealer repos 
 
-# What is PirateStealer ? 
-PirateStealer is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
-
-# How to remove PirateStealer ? 
-- [Malware Detector (by Bytixo)](https://github.com/bytixo/Discord-Malware-Detector) (Language: Golang) - US
-- [Discord Cleaner (By Just-Chaka)](https://github.com/Just-Chakal/discordcleaner) (Language: Javascript) - FR
-- [Discord Injection Remover (By Hideaki)](https://github.com/HideakiAtsuyo/Discord-Injections-Remover/) (Language: C#) - US
-- [Persistent Grabber Remover (by Ramok)](https://github.com/RamokTVL/PersistantGrabberRemover) (Language: C#) - US
+# What is Rusler ? 
+Rustler is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
 
 # Terms
 - [x] You only use it for educational or private purposes.
