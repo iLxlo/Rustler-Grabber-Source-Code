@@ -1,5 +1,5 @@
 
-<img src="[https://user-images.githubusercontent.com/66573599/146654766-41c1fdd8-9350-415e-87b2-afbfc17da12a.png]" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" align="right" width="70" height="100" />
+<img src="![2f717cbc89ee3d56838b17269069f618](https://user-images.githubusercontent.com/98545753/175044707-4b60c5b9-3c01-44cc-82bf-d4771b7e7b7a.png)" />
 
 #### [🔗 Discord Link](https://discord.gg/2305) - [📖 Terms](https://github.com/iLxlo/Rustler-Grabber-Source-Code#terms) - [🔨 Builder](https://discord.gg/2305) - [💎 Premium](https://discord.gg/2305) - [💡 Features](https://github.com/iLxlo/Rustler-Grabber-Source-Code#features)
 
