@@ -1,3 +1,9 @@
+DONT FORGET TO LEAVE A STAR FOR UPDATE !
+
+
+if you need any help join our discord and send me screen shot with your error 
+
+
 
 <img src="![2f717cbc89ee3d56838b17269069f618](https://user-images.githubusercontent.com/98545753/175044707-4b60c5b9-3c01-44cc-82bf-d4771b7e7b7a.png)" />
 
